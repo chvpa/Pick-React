@@ -35,7 +35,7 @@ const HeroText = () => {
         className="
         hero-text leading-none text-7xl lg:text-[90px] lg:text-center text-white font-medium pt-12"
       > 
-        Agencia de desarrollo de productos digitales.
+        Agencia de desarrollo de productos digitaless.
       </h1>
       <SecondHeroText/>
     </section>
