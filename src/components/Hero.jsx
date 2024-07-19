@@ -33,9 +33,9 @@ const HeroText = () => {
     >
       <h1
         className="
-        hero-text leading-none text-7xl lg:text-[90px] lg:text-center text-white font-medium pt-12"
+        hero-text leading-none text-6xl lg:text-[90px] lg:text-center text-white font-medium pt-12"
       > 
-        Agencia de desarrollo de productos digitaless.
+        Agencia de desarrollo de productos digitales.
       </h1>
       <SecondHeroText/>
     </section>
