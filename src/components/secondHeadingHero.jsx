@@ -19,7 +19,7 @@ const SecondHeroText = () => {
 
   return (
     <main>
-      <h2 className="second-hero-text text-white font-medium lg:text-center lg:max-w-[556px] pt-8 text-sm md:text-base lg:pt-12">
+      <h2 className="second-hero-text text-white font-medium lg:text-center lg:max-w-[600px] pt-8 text-sm md:text-base lg:p-8">
         Con una pasión por el diseño y la tecnología, transformamos ideas en
         sitios web elegantes y efectivos que destacan en el competitivo entorno
         digital.

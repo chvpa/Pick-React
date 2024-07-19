@@ -15,7 +15,7 @@ const SecondHeroText = () => {
       filter: 'blur(0px)',
       y: 0,
       duration: 0.5,
-      delay: 0.5
+      delay: 0.5,
     })
   }, [])
   return (
